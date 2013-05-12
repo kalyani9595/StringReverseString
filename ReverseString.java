@@ -19,6 +19,7 @@ public class ReverseString {
 		while(run == true){
 			System.out.print("Enter a number to choose the method : ");
 			int method = input.nextInt(); 
+/* no default case added */
 
 			switch (method){
 			case 1:
